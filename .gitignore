@@ -5,6 +5,7 @@ __pychache__
 # dependencies
 .venv
 uv.lock
+package-lock.json
 
 # env file
 mac.env
